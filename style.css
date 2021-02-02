@@ -1,7 +1,7 @@
-table {
-    border-collapse: collapse;
-    border: 3px solid rgb(158, 154, 154); 
-    width: 25%
+table, th, td {
+  border-collapse: collapse;
+  border: 2px inset rgb(185, 185, 185); 
+  width: 25% 
   }
   
   body {
@@ -9,3 +9,9 @@ table {
       color: white;
     }
   
+  .center {
+     display: block;
+     margin-left: auto;
+    margin-right: auto;
+    width: 49.5%;
+  }
