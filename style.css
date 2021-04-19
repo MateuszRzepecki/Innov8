@@ -23,6 +23,7 @@
      width: 55%;
   }
 
+<<<<<<< Updated upstream
   .flex-container > div {
     background-color: #df0808;
     width: 10%;
@@ -37,3 +38,8 @@
     flex-direction: row;
     background-color: rgb(236, 76, 2);
   }
+=======
+
+ 
+  
+>>>>>>> Stashed changes
